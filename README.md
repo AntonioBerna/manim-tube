@@ -1,5 +1,8 @@
 # manim-tube
 
+![GitHub License](https://img.shields.io/github/license/AntonioBerna/manim-tube)
+![GitHub Created At](https://img.shields.io/github/created-at/antonioberna/manim-tube)
+
 ## Usage
 
 The `-ql` specifies low render quality (854x480 15FPS).
