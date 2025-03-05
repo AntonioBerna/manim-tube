@@ -20,13 +20,13 @@ Tipically commands are like this:
 manim -pqh main.py
 ```
 
-If you want to render a specific scene, you can specify it
+If you want to render a specific scene, you can specify it:
 
 ```
 manim -pqh main.py SceneName
 ```
 
-If you want to render multiple scenes, you can specify them separated
+If you want to render multiple scenes, you can specify them: separated
 
 ```
 manim -pqh main.py SceneName1 SceneName2
