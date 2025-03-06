@@ -1,10 +1,11 @@
 from manim import *
 
+
 class Quickstart(Scene):
 
     def welcome(self):
         title = Tex(r"Quickstart with Manim", font_size=96)
-        subtitle = Tex(r"By Antonio Bernardini", font_size=48)
+        subtitle = Tex(r"by Antonio Bernardini", font_size=48)
 
         subtitle.next_to(title, DOWN, buff=0.5)
 
